@@ -1,0 +1,894 @@
+[
+  {
+    "title": "Zatancuj si so mnou",
+    "artist": "Adam Ďurica"
+  },
+  {
+    "title": "Made for you",
+    "artist": "Alexander Cardinale"
+  },
+  {
+    "title": "Jízda",
+    "artist": "Alice Springs"
+  },
+  {
+    "title": "Nafrněná",
+    "artist": "Bára Poláková"
+  },
+  {
+    "title": "The time of my life",
+    "artist": "Bill Medley (Hríšný tanec)"
+  },
+  {
+    "title": "Lovely day",
+    "artist": "Bill Whiters"
+  },
+  {
+    "title": "Sluneční hrob",
+    "artist": "Blue effect"
+  },
+  {
+    "title": "Knockin´on heavens door",
+    "artist": "Bob Dylan"
+  },
+  {
+    "title": "První polibek",
+    "artist": "Brutus"
+  },
+  {
+    "title": "Jednou ráno",
+    "artist": "Buty"
+  },
+  {
+    "title": "Mám jednu ruku dlouhou",
+    "artist": "Buty"
+  },
+  {
+    "title": "František",
+    "artist": "Buty"
+  },
+  {
+    "title": "Nad stádem koní",
+    "artist": "Buty"
+  },
+  {
+    "title": "Tata",
+    "artist": "Buty"
+  },
+  {
+    "title": "Žerom",
+    "artist": "Buty"
+  },
+  {
+    "title": "Clocks",
+    "artist": "Coldplay"
+  },
+  {
+    "title": "Snuff",
+    "artist": "Corey Taylor"
+  },
+  {
+    "title": "Mmmmmm",
+    "artist": "Crash Test Dummies"
+  },
+  {
+    "title": "Slunéčko",
+    "artist": "Čechomor"
+  },
+  {
+    "title": "Hruška",
+    "artist": "Čechomor "
+  },
+  {
+    "title": "Pyšný Janek",
+    "artist": "Čechomor/Jarek Nohavica"
+  },
+  {
+    "title": "Get lucky",
+    "artist": "Daft Punk"
+  },
+  {
+    "title": "Kaskadér",
+    "artist": "Dalibor Janda"
+  },
+  {
+    "title": "On my head",
+    "artist": "Dan Bárta"
+  },
+  {
+    "title": "Píseň hraboše",
+    "artist": "Dan Bárta"
+  },
+  {
+    "title": "Jó, ulice",
+    "artist": "Daniel Landa"
+  },
+  {
+    "title": "Přízraky",
+    "artist": "Daniel Landa"
+  },
+  {
+    "title": "Akorát",
+    "artist": "David Deyl"
+  },
+  {
+    "title": "Jericho",
+    "artist": "David Stypka"
+  },
+  {
+    "title": "Kříž",
+    "artist": "David Stypka"
+  },
+  {
+    "title": "Dobré ráno, milá",
+    "artist": "David Stypka/Ewa Farna"
+  },
+  {
+    "title": "Sway",
+    "artist": "Dean Martin"
+  },
+  {
+    "title": "Personal Jesus",
+    "artist": "Depeche Mode"
+  },
+  {
+    "title": "Plakala",
+    "artist": "Divokej Bill"
+  },
+  {
+    "title": "Dávno",
+    "artist": "Divokej Bill"
+  },
+  {
+    "title": "Malování",
+    "artist": "Divokej Bill"
+  },
+  {
+    "title": "Layla",
+    "artist": "Eric Clapton"
+  },
+  {
+    "title": "Tears in heaven",
+    "artist": "Eric Clapton"
+  },
+  {
+    "title": "Paní má se má",
+    "artist": "Fešáci/John Denver"
+  },
+  {
+    "title": "Budapest",
+    "artist": "George Ezra"
+  },
+  {
+    "title": "Falling slowly",
+    "artist": "Glen Hansard/Markéta Irglová"
+  },
+  {
+    "title": "Sweet child o´mine",
+    "artist": "Guns´n´Roses"
+  },
+  {
+    "title": "Sanitka",
+    "artist": "Hana Zagorová"
+  },
+  {
+    "title": "Síla starejch vín",
+    "artist": "Harlej"
+  },
+  {
+    "title": "Restart",
+    "artist": "Chameleon66"
+  },
+  {
+    "title": "Čtyři pětky",
+    "artist": "Chameleon66"
+  },
+  {
+    "title": "Venku je na nule",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Kafe s mlíkem",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Dlouhej kouř",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Stejně jako já",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "1. signální",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Jaxe",
+    "artist": "Chinaski"
+  },
+  {
+    "title": 1970,
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Drobná paralela",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Hlavolam",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Každý ráno",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Měsíc",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Potkal jsem tě po letech",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Víno",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Hvězdné nebe",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Punčocháče",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Klára",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Vrchlabí",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "Dobrák od kosti",
+    "artist": "Chinaski"
+  },
+  {
+    "title": "A thousand years",
+    "artist": "Christina Perri"
+  },
+  {
+    "title": "Next to me",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "title": "Název písně",
+    "artist": "Interpret"
+  },
+  {
+    "title": "Na kolena",
+    "artist": "Ivan Hlas"
+  },
+  {
+    "title": "Jednou mi fotr povídá",
+    "artist": "Ivan Hlas"
+  },
+  {
+    "title": "Výtah nejezdí",
+    "artist": "Ivan Hlas"
+  },
+  {
+    "title": "Linda",
+    "artist": "Ivan Mládek"
+  },
+  {
+    "title": "Stánky",
+    "artist": "Jan Nedvěd"
+  },
+  {
+    "title": "Jižní kříž",
+    "artist": "Jan Nedvěd"
+  },
+  {
+    "title": "Modrá",
+    "artist": "Jana Kirschner"
+  },
+  {
+    "title": "Proklínám",
+    "artist": "Janek Ledecký"
+  },
+  {
+    "title": "Muzeum",
+    "artist": "Jarek Nohavica"
+  },
+  {
+    "title": "Kometa",
+    "artist": "Jarek Nohavica"
+  },
+  {
+    "title": "Dokud se zpívá",
+    "artist": "Jarek Nohavica"
+  },
+  {
+    "title": "Zatanči",
+    "artist": "Jarek Nohavica"
+  },
+  {
+    "title": "Cukrářská bosanova",
+    "artist": "Jarek Nohavica"
+  },
+  {
+    "title": "Zatanči",
+    "artist": "Jarek Nohavica"
+  },
+  {
+    "title": "Mladičká básnířka",
+    "artist": "Jarek Nohavica"
+  },
+  {
+    "title": "James Dean",
+    "artist": "Jelen"
+  },
+  {
+    "title": "Jelen",
+    "artist": "Jelen"
+  },
+  {
+    "title": "Klidná jako voda",
+    "artist": "Jelen"
+  },
+  {
+    "title": "Z kola ven",
+    "artist": "Jelen"
+  },
+  {
+    "title": "Jediný co chci",
+    "artist": "Jelen"
+  },
+  {
+    "title": "Magdalena",
+    "artist": "Jelen"
+  },
+  {
+    "title": "Světlo ve tmě",
+    "artist": "Jelen"
+  },
+  {
+    "title": "Jahody mražený",
+    "artist": "Jiří Šelinger"
+  },
+  {
+    "title": "You´re the one that I want",
+    "artist": "John Travolta/Olivia Newton-John"
+  },
+  {
+    "title": "Moon river",
+    "artist": "Johnny Mercer/Henry Mancini"
+  },
+  {
+    "title": "Love yourself",
+    "artist": "Justin Bieber"
+  },
+  {
+    "title": "Colorado",
+    "artist": "Kabát"
+  },
+  {
+    "title": "Houby magický",
+    "artist": "Kabát"
+  },
+  {
+    "title": "Malá dáma",
+    "artist": "Kabát"
+  },
+  {
+    "title": "Žízeň",
+    "artist": "Kabát"
+  },
+  {
+    "title": "Zrcadlo",
+    "artist": "Karel Černoch"
+  },
+  {
+    "title": "Lady Karneval",
+    "artist": "Karel Gott"
+  },
+  {
+    "title": "Trezor",
+    "artist": "Karel Gott"
+  },
+  {
+    "title": "Čau lásko",
+    "artist": "Karel Gott/Marcela Holanová"
+  },
+  {
+    "title": "Anděl",
+    "artist": "Karel Kryl"
+  },
+  {
+    "title": "Lásko",
+    "artist": "Karel Kryl"
+  },
+  {
+    "title": "Lásko",
+    "artist": "Karel Kryl"
+  },
+  {
+    "title": "Alenka v říši divů",
+    "artist": "Karel Zich"
+  },
+  {
+    "title": "Plamen",
+    "artist": "Kateřina Marie Tichá"
+  },
+  {
+    "title": "Unconditionally",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "Zůstaň tu se mnou ",
+    "artist": "Kryštof"
+  },
+  {
+    "title": "Inzerát",
+    "artist": "Kryštof"
+  },
+  {
+    "title": "Cyráno",
+    "artist": "Kryštof"
+  },
+  {
+    "title": "Obchodník s deštěm",
+    "artist": "Kryštof"
+  },
+  {
+    "title": "Plán",
+    "artist": "Kryštof"
+  },
+  {
+    "title": "Srdcebeat",
+    "artist": "Kryštof"
+  },
+  {
+    "title": "Bella ciao",
+    "artist": "La casa de papel"
+  },
+  {
+    "title": "Always remember us this way",
+    "artist": "Lady Gaga "
+  },
+  {
+    "title": "Shallow",
+    "artist": "Lady Gaga/Bradley Cooper"
+  },
+  {
+    "title": "Fly away",
+    "artist": "Lenny Kravitz"
+  },
+  {
+    "title": "Sou fár",
+    "artist": "Limonádový Joe"
+  },
+  {
+    "title": "My babe",
+    "artist": "Littl Walter"
+  },
+  {
+    "title": "Perfect day",
+    "artist": "Lou Reed"
+  },
+  {
+    "title": "What a wonderfull world",
+    "artist": "Louis Armstrong"
+  },
+  {
+    "title": "Amerika",
+    "artist": "Lucie"
+  },
+  {
+    "title": "Lucie",
+    "artist": "Lucie"
+  },
+  {
+    "title": "Nejlepší kterou znám",
+    "artist": "Lucie"
+  },
+  {
+    "title": "Láska na 100 let",
+    "artist": "Lucie Vondráčková"
+  },
+  {
+    "title": "Hledá se žena",
+    "artist": "Mandrage"
+  },
+  {
+    "title": "Ona se smála",
+    "artist": "Mandrage"
+  },
+  {
+    "title": "Šrouby a matice",
+    "artist": "Mandrage"
+  },
+  {
+    "title": "Ztrácíš",
+    "artist": "Marek Ztracený"
+  },
+  {
+    "title": "Nothing else matters",
+    "artist": "Metallica"
+  },
+  {
+    "title": "Slepic pírka",
+    "artist": "Mig21"
+  },
+  {
+    "title": "Chci ti říct",
+    "artist": "Mig21"
+  },
+  {
+    "title": "Malotraktorem",
+    "artist": "Mig21"
+  },
+  {
+    "title": "Kalhotky si sundej",
+    "artist": "Mig21"
+  },
+  {
+    "title": "Katamarán",
+    "artist": "Michal Hrůza"
+  },
+  {
+    "title": "Napořád",
+    "artist": "Michal Hrůza"
+  },
+  {
+    "title": "Namaluj svítání",
+    "artist": "Michal Hrůza"
+  },
+  {
+    "title": "Stopy zahladím",
+    "artist": "Michal Hrůza"
+  },
+  {
+    "title": "Zakázané uvolnění",
+    "artist": "Michal Hrůza"
+  },
+  {
+    "title": "Winston Smith",
+    "artist": "Michal Hrůza"
+  },
+  {
+    "title": "1plus1",
+    "artist": "Michal Hrůza"
+  },
+  {
+    "title": "Poslední dobou",
+    "artist": "Michal Hrůza"
+  },
+  {
+    "title": "Blues o spolykaných slovech",
+    "artist": "Michal Prokop"
+  },
+  {
+    "title": "Bitva o Karlův most",
+    "artist": "Michal Prokop"
+  },
+  {
+    "title": "Anděl",
+    "artist": "Mirai"
+  },
+  {
+    "title": "Když nemůžeš",
+    "artist": "Mirai"
+  },
+  {
+    "title": "Cesta z města",
+    "artist": "Mirai"
+  },
+  {
+    "title": "Nejlíp jim bylo",
+    "artist": "Mňága a Žďorp"
+  },
+  {
+    "title": "Hodinový hotel",
+    "artist": "Mňága a Žďorp"
+  },
+  {
+    "title": "Fotky z výletu",
+    "artist": "Nedivoč"
+  },
+  {
+    "title": "Já s tebou žít nebudu",
+    "artist": "Nerez"
+  },
+  {
+    "title": "Come as you are",
+    "artist": "Nirvana"
+  },
+  {
+    "title": "Smells like teen spirit",
+    "artist": "Nirvana"
+  },
+  {
+    "title": "Dej mi víc své lásky",
+    "artist": "Olympic"
+  },
+  {
+    "title": "Otázky",
+    "artist": "Olympic"
+  },
+  {
+    "title": "Snad jsem to zavinil já",
+    "artist": "Olympic"
+  },
+  {
+    "title": "Želva",
+    "artist": "Olympic"
+  },
+  {
+    "title": "Jasná zpráva",
+    "artist": "Olympic"
+  },
+  {
+    "title": "Slzy tvý mámy",
+    "artist": "Olympic"
+  },
+  {
+    "title": "Bůh",
+    "artist": "Pekař"
+  },
+  {
+    "title": "Nad horů svítá",
+    "artist": "Petr Bende"
+  },
+  {
+    "title": "Wish you were here",
+    "artist": "Pink Floyd"
+  },
+  {
+    "title": "Another brick in the wall",
+    "artist": "Pink Floyd"
+  },
+  {
+    "title": "Půlnoc",
+    "artist": "Poetika"
+  },
+  {
+    "title": "Mimochodem",
+    "artist": "Poletíme"
+  },
+  {
+    "title": "Pojď se mnou lásko má",
+    "artist": "Poletíme"
+  },
+  {
+    "title": "Směska",
+    "artist": "Polky"
+  },
+  {
+    "title": "Everybody hurts",
+    "artist": "R.E.M."
+  },
+  {
+    "title": "Crossfire",
+    "artist": "Rag´n´Bone Man"
+  },
+  {
+    "title": "Zejtra mám",
+    "artist": "Ready Kirken"
+  },
+  {
+    "title": "Satisfaction",
+    "artist": "Rolling Stones"
+  },
+  {
+    "title": "My ještě nejsme starý",
+    "artist": "Rybičky 48"
+  },
+  {
+    "title": "Chasing Cars",
+    "artist": "Snow Patrol"
+  },
+  {
+    "title": "Englishman in New York",
+    "artist": "Sting"
+  },
+  {
+    "title": "Fields of gold",
+    "artist": "Sting"
+  },
+  {
+    "title": "Every breath you také",
+    "artist": "Sting/Police"
+  },
+  {
+    "title": "Nikdy nic nebylo",
+    "artist": "Sto zvířat"
+  },
+  {
+    "title": "Marnivá sestřenice",
+    "artist": "Suchý/Šlitr"
+  },
+  {
+    "title": "Hollywood Hills",
+    "artist": "Sunrise Avenue"
+  },
+  {
+    "title": "Bet my soul",
+    "artist": "Support Lesbiens"
+  },
+  {
+    "title": "Máj",
+    "artist": "Support Lesbiens"
+  },
+  {
+    "title": "My name is Luka",
+    "artist": "Suzanne Vega"
+  },
+  {
+    "title": "Dám ti napít",
+    "artist": "Štěpán Kozub"
+  },
+  {
+    "title": "Prásknu bičem",
+    "artist": "Štěpán Kozub"
+  },
+  {
+    "title": "Should I stay or should I go",
+    "artist": "The Clash"
+  },
+  {
+    "title": "I´ll be there for you",
+    "artist": "The Rembrandts"
+  },
+  {
+    "title": "Večírek osamělých srdcí",
+    "artist": "Tichá dohoda"
+  },
+  {
+    "title": "Another love",
+    "artist": "Tom Odell"
+  },
+  {
+    "title": "Free fallin",
+    "artist": "Tom Petty"
+  },
+  {
+    "title": "Strojvůdce",
+    "artist": "Tomáš Klus"
+  },
+  {
+    "title": "Cesta",
+    "artist": "Tomáš Klus"
+  },
+  {
+    "title": "Pocity",
+    "artist": "Tomáš Klus"
+  },
+  {
+    "title": "Vesmíru",
+    "artist": "Tomáš Klus"
+  },
+  {
+    "title": "Vlaštovky",
+    "artist": "Traband"
+  },
+  {
+    "title": "Mexiko",
+    "artist": "Tři sestry"
+  },
+  {
+    "title": "Já jsem Aleš",
+    "artist": "Tři sestry"
+  },
+  {
+    "title": "Aida",
+    "artist": "Tři sestry"
+  },
+  {
+    "title": "Hvězdář",
+    "artist": "UDG"
+  },
+  {
+    "title": "Girl, you´ll be a woman soon",
+    "artist": "Urge Overkill"
+  },
+  {
+    "title": "Půlnoční",
+    "artist": "Václav Neckář"
+  },
+  {
+    "title": "Pražskej démon",
+    "artist": "Vitkovo kvarteto"
+  },
+  {
+    "title": "Jednou",
+    "artist": "Vladimír Mišík"
+  },
+  {
+    "title": "Variace na renesanční téma",
+    "artist": "Vladimír Mišík"
+  },
+  {
+    "title": "Co když",
+    "artist": "Vlasta Rédl"
+  },
+  {
+    "title": "Toulavej",
+    "artist": "Vojta Kiďák Tomáško"
+  },
+  {
+    "title": "Zas pitchuje",
+    "artist": "Vojtaano"
+  },
+  {
+    "title": 1982,
+    "artist": "Vypsaná fixa"
+  },
+  {
+    "title": "Dezolát",
+    "artist": "Vypsaná fixa"
+  },
+  {
+    "title": "Listopad",
+    "artist": "Wabi Daněk"
+  },
+  {
+    "title": "Tak abyste to věděla",
+    "artist": "Waldemar Matuška"
+  },
+  {
+    "title": "Tereza",
+    "artist": "Waldemar Matuška"
+  },
+  {
+    "title": "Shut up and dance",
+    "artist": "Walk The Moon"
+  },
+  {
+    "title": "Svaz českých bohémů",
+    "artist": "Wohnout"
+  },
+  {
+    "title": "Pažitka",
+    "artist": "Xavier Baumaxa"
+  },
+  {
+    "title": "Dátamtůjá",
+    "artist": "Xavier Baumaxa"
+  },
+  {
+    "title": "Nonšalantní bonvián",
+    "artist": "Xavier Baumaxa"
+  },
+  {
+    "title": "Dřevo",
+    "artist": "Xindl X"
+  },
+  {
+    "title": "Popelka",
+    "artist": "Xindl X"
+  },
+  {
+    "title": "Cudzinka v tvojej zemi",
+    "artist": "Xindl X"
+  },
+  {
+    "title": "V blbym věku",
+    "artist": "Xindl X"
+  },
+  {
+    "title": "Karviná",
+    "artist": "Yo Yo Band"
+  },
+  {
+    "title": "Boty proti lásce",
+    "artist": "Yvonne Přenosilová"
+  },
+  {
+    "title": "Sametová",
+    "artist": "Žlutý pes"
+  }
+]
